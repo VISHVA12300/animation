@@ -307,14 +307,12 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## OUTPUT
-![IMG-20240427-WA0010](https://github.com/VISHVA12300/animation/assets/119404426/a77776cd-3c14-44f4-bad8-d41555548488)
+![Screenshot 2024-05-08 103805](https://github.com/VISHVA12300/animation/assets/119404426/8c7b9a6f-b8e7-4b08-af96-a77b31b696fb)
 
-![IMG-20240427-WA0011](https://github.com/VISHVA12300/animation/assets/119404426/d6269de3-e90b-4876-92fd-c59de14075f3)
-
-![IMG-20240427-WA0012](https://github.com/VISHVA12300/animation/assets/119404426/d2f55fd7-d525-4404-980d-4d7c303d07bf)
-
-![IMG-20240427-WA0013](https://github.com/VISHVA12300/animation/assets/119404426/96b497ed-1ef8-41e5-a8d4-1987f4157f64)
-![IMG-20240427-WA0014](https://github.com/VISHVA12300/animation/assets/119404426/c655a112-3242-48a6-ad0a-7ceb03dd12b7)
+![Screenshot 2024-05-08 103814](https://github.com/VISHVA12300/animation/assets/119404426/5597de80-21e4-439c-86e8-7044cff482dc)
+![Screenshot 2024-05-08 103825](https://github.com/VISHVA12300/animation/assets/119404426/1e0f310c-f98d-4a05-a3c3-65dcb1fc4337)
+![Screenshot 2024-05-08 103834](https://github.com/VISHVA12300/animation/assets/119404426/5a2c2169-3ab9-4fd1-813c-dd291ae480ec)
+![Screenshot 2024-05-08 103843](https://github.com/VISHVA12300/animation/assets/119404426/62968e26-1d2b-4816-85af-cb60cd2ddfa3)
 
 
 ## RESULT
